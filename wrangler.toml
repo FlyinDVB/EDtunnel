@@ -23,7 +23,7 @@ custom_domain = true
 pattern = "app-stg.gopay.co.id.flyindvb.wildcard.my.id"
 custom_domain = true
 [[routes]]
-pattern = "untan.ac.id.flyindvb.wildcard.my.id"
+pattern = "auraportal.cmi.co.flyindvb.wildcard.my.id"
 custom_domain = true
 
 [vars]

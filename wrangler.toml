@@ -26,7 +26,7 @@ custom_domain = true
 pattern = "auraportal.cmi.co.flyindvb.wildcard.my.id"
 custom_domain = true
 [[routes]]
-pattern = "www.langitmusik.co.id.flyindvb.wildcard.my.id"
+pattern = "cf.shopee.co.id.flyindvb.wildcard.my.id"
 custom_domain = true
 
 [vars]
